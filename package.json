@@ -1,0 +1,20 @@
+{
+  "name": "pokenea-project",
+  "version": "1.0.0",
+  "description": "Pokedex de Pokeneas (Express) - Taller",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Juan José Gómez y Santiago Manco",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+  
+}
